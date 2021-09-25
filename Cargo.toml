@@ -1,7 +1,11 @@
 [package]
 name = "torch-rs"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2018"
+authors = ["Ivan Stasiuk <brokeyourbike@gmail.com>"]
+description = "Kind of Torch"
+repository = "https://github.com/brokeyourbike/torch-rs"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
